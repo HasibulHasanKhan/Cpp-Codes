@@ -1,0 +1,27 @@
+
+#include<iostream>
+using namespace std;
+-----------------------
+Data type in c:
+
+Build in data type :
+*/ void 
+*/ bool
+*/ Integer
+*/ char
+*/ float 
+*/ double
+User defined data type :
+/ structure
+/ union
+/ class 
+/ enumeration
+Derived data type :
+* Array
+* Pointer
+* Function
+* Etc.
+----------------------------------------------
+Array is a collection fo variable of same data type.
+
+
