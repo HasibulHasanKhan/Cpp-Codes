@@ -1,7 +1,0 @@
-/**
- *  Relational Operator :
- *  < > >= . != == 
- * //------------------------
- *  Logical Operator : 
- *  && ? || | ! 
- */
