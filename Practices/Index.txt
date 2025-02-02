@@ -1,0 +1,4 @@
+In C++ , function can receive arguments in two way :
+* Pass by Value -> Function gets a copy of the arguments.
+* Pass by Reference -> Function gets the original varibal's memory address, so changes affect the original value.
+
